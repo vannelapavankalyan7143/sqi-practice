@@ -1,0 +1,7 @@
+-- Insert multiple employees
+INSERT INTO employees (name, role, salary) VALUES
+('Alice', 'Developer', 55000.00),
+('Bob', 'Manager', 75000.00),
+('Charlie', 'Tester', 45000.00),
+('Diana', 'HR', 40000.00),
+('Ethan', 'Developer', 60000.00);
